@@ -64,7 +64,8 @@ Here are some ideas to get you started:
 
 <!-- default, dracula, buefy -->
 
-![yubin121's GitHub stats](https://github-readme-stats.vercel.app/api?username=yubin121&hide=stars&count_private=true&show_icons=true&theme=buefy)
+![yubin121's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yubin121&hide=stars&count_private=true&show_icons=true&theme=buefy)
 
 <br/>
 
+<!-- ![yubin121's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yubin121&langs_count=8) -->
