@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi!%20I'm%20Yubin!&fontColor=555555&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome!%20I'm%20Yubin!&fontColor=555555&fontSize=90&animation=fadeIn)
 
 
 ## About Me ✨
