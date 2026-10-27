@@ -61,7 +61,7 @@ Web Developer, Yubin Han
     </div>
 </div>
 
-<br/>
+<!-- <br/>
 <br/>
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yubin121&utm_content=farm">
@@ -72,7 +72,7 @@ Web Developer, Yubin Han
     />
 </a>
 
-<br/>
+<br/> -->
 
 <!-- <div style="text-align: left;"> 
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats </h3>
