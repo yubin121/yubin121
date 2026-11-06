@@ -12,9 +12,3 @@ Web Developer, Yubin Han
 **[toss/es-hangul](https://github.com/toss/es-hangul)**
 - 에러 없이 틀린 값을 반환하는 버그 2건 발견·원인 분석 ([#404](https://github.com/toss/es-hangul/issues/404), [#407](https://github.com/toss/es-hangul/pull/407))
 - 그 외 테스트·수정 PR 3건
-
-<br />
-
-**API 계약 우선 개발 파일럿**
-- 실제 연동 전 계약 불일치·누락 13건 발견 · 사내 비공개
-
